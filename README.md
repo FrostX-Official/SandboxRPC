@@ -7,8 +7,6 @@ NuGet:
 - Bunifu.UI.WinForms.6.1.0
 - DiscordRichPresence.1.1.4.20
 
-That's all ig. rpc means rich presence btw.
-
 ## Download without building
 
 [discord cdn download](https://cdn.discordapp.com/attachments/1133370408763142204/1133381218558279730/SandboxRPC.exe)<br>
